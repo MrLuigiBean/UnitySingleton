@@ -26,7 +26,7 @@ and add it as a git package in the Unity Package Manager by clicking on the "+" 
 
 Once you have the package installed, you may
 
-- Create your own Singleton classes by extending the Generic [:sparkles: Singleton :sparkles:](Runtime/Scripts/Singleton.cs) class. (:rocket: Check out the example [GameManager](Samples/Scripts/GameManager.cs) in the example [_Preload scene](Samples/Scenes/_Preload.unity).)
+- Create your own Singleton classes by extending the Generic [:sparkles: Singleton :sparkles:](Runtime/Scripts/Singleton.cs) class. ( :rocket: Check out the example [GameManager](Samples/Scripts/GameManager.cs) in the example [_Preload scene](Samples/Scenes/_Preload.unity).)
 - Attach your singleton classes to a GameManager game object in a _Preload scene of your own.
 - Edit the variables inside the inspector
 - Run the game and enjoy!
